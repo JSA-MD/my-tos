@@ -1,0 +1,9 @@
+Terms of Service for [EpicFunVideo]
+
+This app is for personal automation purposes using n8n.
+
+We do not provide public services to other users.
+
+Users must comply with TikTok's official community guidelines.
+
+All video content is managed by the owner.
